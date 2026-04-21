@@ -16,7 +16,6 @@ To view the project locally, simply open `index.html` in your web browser. No co
 ## Technologies Used
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 
-## Group Members
-*(Add your details here!)*
+
