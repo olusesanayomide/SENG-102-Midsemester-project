@@ -1,6 +1,5 @@
 # Portfolio Replica
 
-<<<<<<< HEAD
 A responsive personal portfolio webpage built with HTML, CSS, and JavaScript. The project presents a developer profile with a hero section, technology experience, project cards, work experience, contact information, and simple interactive animations.
 
 ## Table of Contents
@@ -259,5 +258,4 @@ To view the project locally, simply open `index.html` in your web browser. No co
 - CSS3
 - JavaScript
 
-
->>>>>>> 8c47fcb5d13bb2f83b17b71fc8ec385e4ae931db
+ 
