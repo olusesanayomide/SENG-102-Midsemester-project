@@ -1,5 +1,6 @@
 # Portfolio Replica
 
+<<<<<<< HEAD
 A responsive personal portfolio webpage built with HTML, CSS, and JavaScript. The project presents a developer profile with a hero section, technology experience, project cards, work experience, contact information, and simple interactive animations.
 
 ## Table of Contents
@@ -239,3 +240,24 @@ Because this is a static website, it can be hosted on many free platforms.
 ## Credits
 
 This portfolio was created as a front-end web project using plain HTML, CSS, and JavaScript. It is suitable for learning responsive design, page structure, styling, and basic browser-based interactivity.
+=======
+This is a replica of a developer portfolio website, built using HTML, CSS, and basic JavaScript.
+
+## Features
+- Fully responsive design using CSS Grid and Flexbox
+- Semantic HTML5 structure
+- Smooth scrolling navigation
+- Dark themed modern UI
+- Project and Experience sections
+
+## Getting Started
+
+To view the project locally, simply open `index.html` in your web browser. No complex build tools or servers are required.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+
+>>>>>>> 8c47fcb5d13bb2f83b17b71fc8ec385e4ae931db
