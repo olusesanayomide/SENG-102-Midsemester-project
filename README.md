@@ -258,5 +258,4 @@ To view the project locally, simply open `index.html` in your web browser. No co
 - CSS3
 - JavaScript
 
-
->>>>>>> 8c47fcb5d13bb2f83b17b71fc8ec385e4ae931db
+ 
