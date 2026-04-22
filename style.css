@@ -245,20 +245,11 @@ a {
   overflow: hidden;
   border-radius: 12px;
   background: var(--card);
-<<<<<<< HEAD
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-}
-
-.project-card:hover {
-  box-shadow: 0 18px 34px rgba(0, 0, 0, 0.32);
-  transform: translateY(-8px);
-=======
   transition: transform 0.3s ease;
 }
 
 .project-card:hover {
   transform: translateY(-6px);
->>>>>>> 8c47fcb5d13bb2f83b17b71fc8ec385e4ae931db
 }
 
 .project-art {
